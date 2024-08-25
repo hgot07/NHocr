@@ -23,6 +23,8 @@ Please don't expect too much.
 This software was developed before the Deep Learning 
 and LLM (Large Language Models) era. 
 
+**This is here just for a historical record.**
+
 NHocr is originally a product of the author's weekend programming. The development work may be rather slow.
 
 
