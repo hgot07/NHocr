@@ -5,6 +5,8 @@ OCR Engine for Japanese
 Since Sep 8, 2008 (at Google Code) / Repository at GitHub opened on Aug. 25, 2024  
 Last update: Dec. 20, 2024
 
+Note: We do not accept pull requests as the development is inactive. You may open issue report but it may not be addressed.
+
 ## Introduction
 NHocr is a command line OCR (Optical Character Recognition) program for Japanese, Chinese, etc. It has been designed to recognize machine-printed Japanese characters and some ASCII characters/symbols in an image.
 NHocr is probably the first Open Source Japanese OCR software (offline, machine-printed), except some experimental, partial codes open to academic communities.
